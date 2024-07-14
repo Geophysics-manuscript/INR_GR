@@ -31,7 +31,7 @@ To run the code, you'll need the following software and libraries installed:
 You can install the required packages using `pip`:
 
 ```bash
-pip install numpy scipy matplotlib Pytorch
+pip install numpy scipy matplotlib pytorch
 ```
 
 ## Usage
@@ -39,8 +39,8 @@ pip install numpy scipy matplotlib Pytorch
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-repo/your-repo.git
-   cd your-repo
+   git clone https://github.com/Geophysics-manuscript/INR_GR.git
+   cd INR_GR
    ```
 
 2. **Run the Example**:
