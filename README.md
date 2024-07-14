@@ -1,7 +1,3 @@
-Here is a README file for your code repository:
-
----
-
 # README
 
 ## Overview
